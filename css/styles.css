@@ -1,3 +1,19 @@
-    h1, h2 {color: rgb(10, 0, 255);
-    font-family: cursive}
-    
+    h1,
+    h2 {
+        color: rgb(10, 0, 255);
+        font-family: cursive;
+        font font-weight: 100;
+        font-size: 100
+    }
+
+    body {
+        background-color: gray
+    }
+
+    main {
+        background-color: gainsboro
+    }
+
+.somename {color: red}
+
+.hondapictures {color: red} 
